@@ -11,6 +11,18 @@ somar(10, 13);
 somar(34, 24);
 
 
+let dividir = function(valor1, valor2){
+    let result = valor1 / valor2;
+    console.log(result);
+}
+
+dividir(10, 2);
+dividir(10,10);
+dividir(30,2);
+
+
+
+
 
 
 let subtrair = function(valor1, valor2, valor3){
